@@ -1,3 +1,5 @@
+> Welp, we drove it into the ground. Sign-ups are now closed and all registrations are going to a waiting list.
+
 # Treasure Hunt
 
 Get 800GB free on Treasure Cloud
