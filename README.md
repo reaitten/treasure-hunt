@@ -1,4 +1,4 @@
-> Welp, we drove it into the ground. Sign-ups are now closed and all registrations are going to a waiting list.
+> UPDATE: Sign-ups are now open again!
 
 # Treasure Hunt
 
@@ -44,3 +44,7 @@ If you run it locally, you'll also see a `screenshots` folder with screenshots o
 ### Disclaimer
 
 If/When they find out about this, they may suspend all the accounts and take away all the bonus storage. Whatever the case is, you are responsible for what happens to your account.
+
+### Credits
+- [xuac](https://github.com/xuac) - author
+- [treasure-hunt](https://github.com/xuac/treasure-hunt) - main repository
